@@ -5,6 +5,8 @@ export const projects = [
     mainImg: 'glasklar/home-dark-desktop.png',
     mainImgAlt: 'Glasklar homepage',
     modalImg: [
+      'glasklar/home-dark-desktop.png',
+      'glasklar/home-light-desktop.png',
       'glasklar/home-dark.png',
       'glasklar/home-light.png',
       'glasklar/chat-dark.png',
@@ -25,6 +27,8 @@ export const projects = [
       'glasklar/verbs-light.png',
     ],
     modalImgAlt: [
+      'Glasklar screenshot',
+      'Glasklar screenshot',
       'Glasklar screenshot',
       'Glasklar screenshot',
       'Glasklar screenshot',
