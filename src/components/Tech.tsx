@@ -13,19 +13,19 @@ const Tech = () => {
             <li className="list-group-item">Bootstrap 5</li>
             <li className="list-group-item">Tailwind CSS</li>
             <li className="list-group-item">Material UI</li>
-            <li className="list-group-item">React.js</li>
-            <li className="list-group-item">Next.js</li>
+            <li className="list-group-item">React</li>
+            <li className="list-group-item">Next</li>
             <li className="list-group-item">TypeScript</li>
           </ul>
         </div>
         <div className="col-lg-4 col-md-4 col-sm-12">
           <h5 className="text-center">Backend</h5>
           <ul className="list-group list-group-flush">
-            <li className="list-group-item">PHP</li>
-            <li className="list-group-item">Node.js</li>
-            <li className="list-group-item">.NET</li>
+            <li className="list-group-item">Node/TypeScript</li>
+            <li className="list-group-item">Express</li>
             <li className="list-group-item">Sanity</li>
             <li className="list-group-item">MongoDB</li>
+            <li className="list-group-item">PostgraSQL</li>
             <li className="list-group-item">MySQL</li>
             <li className="list-group-item">SQL Server</li>
           </ul>
